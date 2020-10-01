@@ -7,6 +7,7 @@ public class HelloWorld {
 		HelloWorld aj1 = new HelloWorld();
 		int somme1 = aj1.ajouter(69, 31);
 		System.out.println(somme1);
+
 	}
 
 	public int ajouter(int num1, int num2) {
